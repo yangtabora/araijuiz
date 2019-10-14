@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://theuthoor.nackt-in-ravensburg.de/sitemap.xml
